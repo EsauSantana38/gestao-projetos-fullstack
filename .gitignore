@@ -1,0 +1,16 @@
+# IDEs
+.vscode/
+.idea/
+
+# Java
+target/
+*.class
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Env
+.env
